@@ -1,15 +1,15 @@
 @import url(styles/header.css);
 
 :root{
-    --cor-de-fundo: #632fdd;
-    --branco: #000000;
+    --cor-de-fundo: #1044ad;
+    --branco: #0f0f0f;
     --amarelo: #fecd2f;
-    --roxo: #fefbff;      
+    --roxo: #ffffff;      
     --roxo-degrade: linear-gradient(94.49deg, #733887 35.48%, #C75EEB 143.32%);
     --preto: #ffffff;
-    --fonte-roboto: 'baskerville', sans-serif;
-    --fonte-principal: 'baskerville', sans-serif;
-    --fonte-secundaria:  'baskerville', sans-serif;
+    --fonte-roboto: 'Roboto', sans-serif;
+    --fonte-principal: 'Poppins', sans-serif;
+    --fonte-secundaria:  'Josefin Sans', sans-serif;
     --fonte-secundaria-normal: 400;
     --fonte-secundaria-bold: 700;
   }
