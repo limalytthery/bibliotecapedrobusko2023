@@ -7,9 +7,9 @@
     --roxo: #fefbff;      
     --roxo-degrade: linear-gradient(94.49deg, #733887 35.48%, #C75EEB 143.32%);
     --preto: #ffffff;
-    --fonte-roboto: 'Roboto', sans-serif;
+    --fonte-roboto: 'baskerville', sans-serif;
     --fonte-principal: 'baskerville', sans-serif;
-    --fonte-secundaria:  'Josefin Sans', sans-serif;
+    --fonte-secundaria:  'baskerville', sans-serif;
     --fonte-secundaria-normal: 400;
     --fonte-secundaria-bold: 700;
   }
